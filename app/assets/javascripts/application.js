@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require text-slider
 //= require_tree .
+
