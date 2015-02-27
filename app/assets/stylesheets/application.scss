@@ -17,24 +17,24 @@
 @import "bootstrap";
 @font-face{
     font-family:'AvenirLT-Medium';
-    src:url('/assets/avenirlt-medium.eot');
-    src:url('/assets/avenirlt-medium.eot?#iefix') format("embedded-opentype"),
-        url('/assets/avenirlt-medium.woff') format("woff"),
-        url('/assets/avenirlt-medium.ttf') format("truetype")
+    src:font-url('/assets/avenirlt-medium.eot');
+    src:font-url('/assets/avenirlt-medium.eot?#iefix') format("embedded-opentype"),
+        font-url('/assets/avenirlt-medium.woff') format("woff"),
+        font-url('/assets/avenirlt-medium.ttf') format("truetype")
 }
 @font-face{
     font-family:'AvenirLT-Black';
-    src:url('/assets/avenirlt-black.eot');
-    src:url('/assets/avenirlt-black.eot?#iefix') format("embedded-opentype"),
-        url('/assets/avenirlt-black.woff') format("woff"),
-        url('/assets/avenirlt-black.ttf') format("truetype")
+    src:font-url('/assets/avenirlt-black.eot');
+    src:font-url('/assets/avenirlt-black.eot?#iefix') format("embedded-opentype"),
+        font-url('/assets/avenirlt-black.woff') format("woff"),
+        font-url('/assets/avenirlt-black.ttf') format("truetype")
 }
 @font-face{
     font-family:'AvenirLT-Roman';
-    src:url('/assets/avenirlt-roman.eot');
-    src:url('/assets/avenirlt-roman.eot?#iefix') format("embedded-opentype"),
-        url('/assets/avenirlt-roman.woff') format("woff"),
-        url('/assets/avenirlt-roman.ttf') format("truetype")
+    src:font-url('/assets/avenirlt-roman.eot');
+    src:font-url('/assets/avenirlt-roman.eot?#iefix') format("embedded-opentype"),
+        font-url('/assets/avenirlt-roman.woff') format("woff"),
+        font-url('/assets/avenirlt-roman.ttf') format("truetype")
 }
 html, body {
 	height: 100%;
